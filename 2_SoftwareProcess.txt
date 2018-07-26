@@ -1,0 +1,22 @@
+What is software Process?
+
+Some conceptual definitions:
+
+In software engineering, a software development process is the process of dividing software development work into distinct phases to improve design, product management, and project management.
+
+------------------------------
+
+A software development process or life cycle is a structure imposed on the development of a software product. 
+
+------------------------------
+
+A software process is represented as a set of work phases that is applied to design and build a software product. ...
+
+
+-------------------------------
+
+
+The software that meets the specification is produced.
+
+
+--------------------------------
