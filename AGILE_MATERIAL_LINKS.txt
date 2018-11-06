@@ -1,0 +1,8 @@
+http://en.wikipedia.org/wiki/Agile_software_development
+http://en.wikipedia.org/wiki/Colocation_(business)#Examples
+http://en.wikipedia.org/wiki/Pair_programming
+http://www.codeproject.com/Articles/604417/Agile-software-development-methodologies-and-how-t
+http://www-01.ibm.com/software/rational/agile/index.html
+http://www.slideshare.net/faizayousuf/software-engineering-agile-and-scrum
+http://www.codeproject.com/Articles/604417/Agile-software-development-methodologies-and-how-t
+http://agilemanifesto.org/
